@@ -541,8 +541,8 @@
 
         function sendData(formValue, quiet = false) {
             $.ajax({
-                // url: 'https://scripts.katimas.brixmind.com/applyform',
-                url: 'http://localhost:3535/applyform',
+                url: 'https://scripts.katimas.brixmind.com/applyform',
+                //url: 'http://localhost:3535/applyform',
                 type: 'POST',
                 data: formValue,
                 success: function (data) {
