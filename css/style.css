@@ -25,6 +25,7 @@
         3.14 blog-area color css
         3.15 contact area color 
         3.16 footer area color
+        3.17 recently added
 
     4. Styles
         4.1  Header area css
@@ -695,6 +696,34 @@ label{
 .footer-bottom a:hover {
   color: #14b6f2;
 }
+
+/*==== 3.17 Recently Added Styles ====*/
+
+.pl-20{
+	padding-left: 20px;
+}
+
+.article-content p{
+	margin-bottom: 1em; /* Space between paragraphs */
+    text-align: justify; /* Justify text in paragraphs */
+		color: #1b1b1b;
+    font-family: 'Exo', sans-serif;
+}
+
+.article-content span{
+	margin-bottom: 1em; /* Space between paragraphs */
+    text-align: justify; /* Justify text in paragraphs */
+		color: #1b1b1b;
+    font-family: 'Exo', sans-serif;
+}
+
+.article-content ul li{
+	margin-bottom: 1em; /* Space between paragraphs */
+    text-align: justify; /* Justify text in paragraphs */
+		color: #1b1b1b;
+    font-family: 'Exo', sans-serif;
+}
+
 
 /*==== 4. Styles ====*/
 
