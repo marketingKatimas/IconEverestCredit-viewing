@@ -129,7 +129,7 @@ function updateNavbar(language) {
         ServicesNav.textContent = 'Services';
         MoreInfoNav.textContent = 'More Info';
         PaymentMethodNav.textContent = 'Payment Method';
-        PrivacyNoticeNav.textContent = 'Privacy Notice';
+        PrivacyNoticeNav.textContent = 'Privacy Policy';
         ContactUsNav.textContent = 'Contacts';
         ApplyNowNav.innerHTML = 'Apply Now <i class="arrow_right">';
     }
@@ -151,7 +151,7 @@ function updateMobileNavbar(language) {
         ServicesMobileNav.textContent = 'Services';
         MoreInfoMobileNav.textContent = 'More Info';
         PaymentMethodMobileNav.textContent = 'Payment Method';
-        PrivacyNoticeMobileNav.textContent = 'Privacy Notice';
+        PrivacyNoticeMobileNav.textContent = 'Privacy Policy';
         ContactMobileNav.textContent = 'Contacts';
         ApplyNowMobileNav.innerHTML = 'Apply Now <i class="arrow_right">';
     }
@@ -162,7 +162,7 @@ function updateHeader(language) {
         PrivacyNoticeHeader.innerHTML = 'Notis Privasi<span>.</span>';
         PrivacyNoticeHeaderDes.textContent = 'kami menawarkan pelbagai penyelesaian pembiayaan untuk memenuhi keperluan peribadi anda dengan aplikasi tanpa kerumitan dan keperluan dokumen mudah.';
     } else {
-        PrivacyNoticeHeader.innerHTML = 'Privacy Notice<span>.</span>';
+        PrivacyNoticeHeader.innerHTML = 'Privacy Policy<span>.</span>';
         PrivacyNoticeHeaderDes.textContent = 'we offer a variety of financing solutions to cater to your personal needs with hassle-free applications and simple documents requirements.';
     }
 }
@@ -258,7 +258,7 @@ function updateProtectionNotice(language) {
         Fourteen.textContent = 'We will retain your data for as long as is necessary for us to comply with our obligations under any contract between us or imposed under law, or for the fulfilment of the purposes set out in this Notice or as is required to satisfy any legal, regulatory and/or accounting requirements. We will permanently delete or destroy your personal data if your personal data is no longer necessary for the fulfilment of the purposes set out in this Notice.';
         Fifteen.textContent = 'We reserve the right to amend this Notice at any time and from time to time and a notice of such amendments will be made available to you through written notice or other mode which we view appropriate and suitable. You shall send us a written revocation of consent if you do not agree to us continue processing your personal data in accordance with the revised Notice.';
         Sixteen.textContent = 'In the event this Notice is available in more than one language, the English version shall be treated as the principal version and the remaining shall be treated as translations from the English version, and the English version shall prevail in the event of any conflict, inconsistency or discrepancy between the various languages.';
-        Seventeen.textContent = 'Should you wish to request for access to your Personal Information, request for amendment/correction of such Personal Information or provide any feedback to murahcredit.com on this Privacy Notice, you may contact us at the following address, phone no. and/or e-mail:-';
+        Seventeen.textContent = 'Should you wish to request for access to your Personal Information, request for amendment/correction of such Personal Information or provide any feedback to murahcredit.com on this Privacy Policy, you may contact us at the following address, phone no. and/or e-mail:-';
 
     }
 }

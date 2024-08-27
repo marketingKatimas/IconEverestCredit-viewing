@@ -91,7 +91,7 @@ function updateNavbar(language) {
         ServicesNav.textContent = 'Services';
         MoreInfoNav.textContent = 'More Info';
         PaymentMethodNav.textContent = 'Payment Method';
-        PrivacyNoticeNav.textContent = 'Privacy Notice';
+        PrivacyNoticeNav.textContent = 'Privacy Policy';
         ContactUsNav.textContent = 'Contacts';
         ApplyNowNav.innerHTML = 'Apply Now <i class="arrow_right">';
     }
@@ -113,7 +113,7 @@ function updateMobileNavbar(language) {
         ServicesMobileNav.textContent = 'Services';
         MoreInfoMobileNav.textContent = 'More Info';
         PaymentMethodMobileNav.textContent = 'Payment Method';
-        PrivacyNoticeMobileNav.textContent = 'Privacy Notice';
+        PrivacyNoticeMobileNav.textContent = 'Privacy Policy';
         ContactMobileNav.textContent = 'Contacts';
         ApplyNowMobileNav.innerHTML = 'Apply Now <i class="arrow_right">';
     }
